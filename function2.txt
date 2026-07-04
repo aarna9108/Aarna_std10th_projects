@@ -1,0 +1,13 @@
+ String st1="Computeru";
+  int len=st1.length();
+  System.out.println(st1.indexOf('u'));
+  System.out.print(st1.substring(4));
+  System.out.println(st1.substring(1,4));
+  System.out.println(st1.toLowerCase());
+  System.out.println(st1.toUpperCase());
+  System.out.println(st1.lastIndexOf('u'));
+	
+	
+	
+	}
+}

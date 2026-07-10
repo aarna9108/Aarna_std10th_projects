@@ -1,0 +1,18 @@
+package java_project;
+import java.util.Scanner;
+public class function5 {
+
+	public static void main(String[] args) {
+	int sum= 12000;
+			if(sum>10000 && sum<15000)
+			{System.out.println("The interest for this fixed deposit is 8%");
+				
+			}else if(sum>15000 && sum<20000) {
+				System.out.println("The interest for the fixed deposit is 9%");
+			}else {
+				System.out.println("The interest for this fixed deposit is 11%");
+			}
+
+	}
+
+}
